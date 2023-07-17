@@ -1,0 +1,26 @@
+E:\Beauty Cosmetics\Beauty Cosmetics\bin\Debug\Beauty Cosmetics.exe.config
+E:\Beauty Cosmetics\Beauty Cosmetics\bin\Debug\Beauty Cosmetics.exe
+E:\Beauty Cosmetics\Beauty Cosmetics\bin\Debug\Beauty Cosmetics.pdb
+E:\Beauty Cosmetics\Beauty Cosmetics\bin\Debug\CircularProgressBar.dll
+E:\Beauty Cosmetics\Beauty Cosmetics\bin\Debug\WinFormAnimation.dll
+E:\Beauty Cosmetics\Beauty Cosmetics\bin\Debug\CircularProgressBar.xml
+E:\Beauty Cosmetics\Beauty Cosmetics\bin\Debug\WinFormAnimation.xml
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty Cosmetics.csproj.AssemblyReference.cache
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Splash.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Properties.Resources.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty Cosmetics.csproj.GenerateResource.cache
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty Cosmetics.csproj.CoreCompileInputs.cache
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty Cosmetics.csproj.CopyComplete
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty Cosmetics.exe
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty Cosmetics.pdb
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.LoginForm.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.SignForm.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\bin\Debug\FontAwesome.Sharp.dll
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Main_menu.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Bill.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Users.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Customers.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Employees.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Stock.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Dashboard.resources
+E:\Beauty Cosmetics\Beauty Cosmetics\obj\Debug\Beauty_Cosmetics.Logout.resources
